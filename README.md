@@ -11,6 +11,6 @@ Failed to send telemetry event ClientStartEvent: capture() takes 1 positional ar
 
 Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
 
-這裡是其他人碰到的類似狀況，好像在colab、或python .venv跑，就會有這錯誤。
+這裡是其他人碰到的類似狀況，好像在colab、或python .venv跑，就會有這個warning。
 
 https://github.com/vanna-ai/vanna/issues/917
